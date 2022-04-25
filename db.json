@@ -1,0 +1,103 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "categories": "ps4",
+      "name": "Playstation 4",
+      "price": 200,
+      "description": "Sony Playstation 4 console fat, 500 gigabites",
+      "avatarUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/PS4-Console-wDS4.jpg/1920px-PS4-Console-wDS4.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/PS4-Console-wDS4.jpg/1920px-PS4-Console-wDS4.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Xbox one s",
+      "categories": "xone",
+      "price": 300,
+      "description": "Microsoft xbox one s slim console 1 terabite",
+      "avatarUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/XBOX_ONE_X_Gamescom_%2836042607743%29.jpg/1920px-XBOX_ONE_X_Gamescom_%2836042607743%29.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/XBOX_ONE_X_Gamescom_%2836042607743%29.jpg/1920px-XBOX_ONE_X_Gamescom_%2836042607743%29.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Raspberry pi 1",
+      "categories": "computers",
+      "price": 34.99,
+      "description": "Micro computer 1gb ram, atom 1 procesor.",
+      "avatarUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Raspberry_Pi_-_Model_A.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Raspberry_Pi_-_Model_A.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Raspberry pi 2",
+      "categories": "computers",
+      "price": 49.99,
+      "description": "Micro computer 2gb ram, atom 2 procesor.",
+      "avatarUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Raspberry_Pi_2_Model_B_v1.1_top_new_%28bg_cut_out%29.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Raspberry_Pi_2_Model_B_v1.1_top_new_%28bg_cut_out%29.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Raspberry pi 3",
+      "categories": "computers",
+      "price": 89.99,
+      "description": "Micro computer 4gb ram, atom 3 procesor.",
+      "avatarUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Raspberry_Pi_3_B%2B_%2839906370335%29.png",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Raspberry_Pi_3_B%2B_%2839906370335%29.png"
+    },
+    {
+      "id": 6,
+      "name": "Raspberry pi 4",
+      "categories": "computers",
+      "price": 99.99,
+      "description": "Micro computer 8gb ram, atom 4 procesor.",
+      "avatarUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Raspberry_Pi_4_Model_B_-_Side.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Raspberry_Pi_4_Model_B_-_Side.jpg"
+    },
+    {
+      "id": 60620904,
+      "name": "ps5",
+      "categories": "ps5",
+      "price": 300,
+      "description": "ps5 de pana",
+      "avatarUrl": "https://cdn.idealo.com/folder/Product/200584/7/200584791/s11_produktbild_gross/sony-playstation-5-ps5-digital-edition.jpg",
+      "imageUrl": "https://cdn.idealo.com/folder/Product/200584/7/200584791/s11_produktbild_gross/sony-playstation-5-ps5-digital-edition.jpg"
+    },
+    {
+      "id": 394559282,
+      "name": "ps5",
+      "categories": "ps5",
+      "price": 300,
+      "description": "ps5 de pana",
+      "avatarUrl": "https://cdn.idealo.com/folder/Product/200584/7/200584791/s11_produktbild_gross/sony-playstation-5-ps5-digital-edition.jpg",
+      "imageUrl": "https://cdn.idealo.com/folder/Product/200584/7/200584791/s11_produktbild_gross/sony-playstation-5-ps5-digital-edition.jpg"
+    },
+    {
+      "id": 573821421,
+      "name": "Playstation 5",
+      "categories": "Videogames",
+      "price": 600,
+      "description": "ps5 de pana",
+      "avatarUrl": "https://cdn.idealo.com/folder/Product/200584/7/200584791/s11_produktbild_gross/sony-playstation-5-ps5-digital-edition.jpg",
+      "imageUrl": "https://cdn.idealo.com/folder/Product/200584/7/200584791/s11_produktbild_gross/sony-playstation-5-ps5-digital-edition.jpg"
+    },
+    {
+      "id": 288865469,
+      "name": "ps5",
+      "categories": "ps5",
+      "price": 400,
+      "description": "ps5 de la perra",
+      "avatarUrl": "https://cdn.idealo.com/folder/Product/200584/7/200584791/s11_produktbild_gross/sony-playstation-5-ps5-digital-edition.jpg",
+      "imageUrl": "https://cdn.idealo.com/folder/Product/200584/7/200584791/s11_produktbild_gross/sony-playstation-5-ps5-digital-edition.jpg"
+    },
+    {
+      "id": 885216584,
+      "name": "ps6",
+      "categories": "v",
+      "price": 300,
+      "description": "nada",
+      "avatarUrl": "https://cdn.idealo.com/folder/Product/200584/7/200584791/s11_produktbild_gross/sony-playstation-5-ps5-digital-edition.jpg",
+      "imageUrl": "https://cdn.idealo.com/folder/Product/200584/7/200584791/s11_produktbild_gross/sony-playstation-5-ps5-digital-edition.jpg"
+    }
+  ]
+}
